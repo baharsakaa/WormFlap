@@ -13,7 +13,7 @@ This project contains a clone of the classic Flappy Bird game. The main objectiv
 3. Navigate through the gaps between the spiders. Colliding with spiders ends the game.
 4. Your highest score is recorded and displayed when you finish your game session.
 
-#REQUIREMENT
+# REQUIREMENT
 * Java Development Kit (JDK) 8 or newer.
 * LibGDX game development library
 
