@@ -18,4 +18,5 @@ This project contains a clone of the classic Flappy Bird game. The main objectiv
 * LibGDX game development library
 
 
-![image](https://github.com/baharsakaa/WormFlap/assets/74603856/9e586596-1519-45e9-92f2-dff97ab6d0cc)
+![image](https://github.com/baharsakaa/WormFlap/assets/74603856/cc552349-31da-432e-bbd1-877e14063355)
+
